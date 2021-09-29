@@ -1,5 +1,5 @@
 /*
-inactivity_notifier sends an email if it isn't reset for a customisable amount of time.
+inactivity_notifier sends an email if there is no activity for a customisable amount of time.
 Usage:
 	inactivity_notifier <server <timeout> <mailserver> <sender> <password> <recipient> <message> | renew <remote>>
 
